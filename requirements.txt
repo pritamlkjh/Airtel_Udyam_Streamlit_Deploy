@@ -1,0 +1,8 @@
+streamlit>=1.45
+pandas>=2.0
+numpy>=1.24
+pillow>=10.0
+# optional
+pytesseract>=0.3.10   # live OCR (also needs the tesseract binary)
+qrcode>=7.4           # partner QR codes
+anthropic>=0.40       # live GenAI explanations (set ANTHROPIC_API_KEY)
